@@ -3646,6 +3646,11 @@ export const yearsCompleteData: Record<string, YearData> = {
           "https://drive.google.com/drive/folders/1bya6eBRb-t6Z717_y8i07nQFOIvXNyEW?usp=drive_link",
         courses: [
           {
+            title: "Cours 2026",
+            url: "https://drive.google.com/drive/folders/1SSMcF_nda_CsjqFLb-mE9R1RKXEYzbQY?usp=drive_link",
+            year: "2026",
+          },
+          {
             title: "Cours 2024",
             url: "https://drive.google.com/drive/folders/1bya6eBRb-t6Z717_y8i07nQFOIvXNyEW?usp=drive_link",
             year: "2024",
@@ -3667,6 +3672,11 @@ export const yearsCompleteData: Record<string, YearData> = {
         driveUrl:
           "https://drive.google.com/drive/folders/1YNtGg5-gP6Lqpa8LlLy9r2puvsRndSMo?usp=drive_link",
         courses: [
+          {
+            title: "Cours 2026",
+            url: "https://drive.google.com/drive/folders/1SSMcF_nda_CsjqFLb-mE9R1RKXEYzbQY?usp=drive_link",
+            year: "2026",
+          },
           {
             title: "Cours 2024",
             url: "https://drive.google.com/drive/folders/1YNtGg5-gP6Lqpa8LlLy9r2puvsRndSMo?usp=drive_link",
@@ -3717,6 +3727,11 @@ export const yearsCompleteData: Record<string, YearData> = {
           "https://drive.google.com/drive/folders/164VuQNi8SVIDH2rxqNKW4tebQcdKM3pM?usp=drive_link",
         courses: [
           {
+            title: "Cours 2026",
+            url: "https://drive.google.com/drive/folders/1SSMcF_nda_CsjqFLb-mE9R1RKXEYzbQY?usp=drive_link",
+            year: "2026",
+          },
+          {
             title: "Cours 2024",
             url: "https://drive.google.com/drive/folders/164VuQNi8SVIDH2rxqNKW4tebQcdKM3pM?usp=drive_link",
             year: "2024",
@@ -3738,6 +3753,11 @@ export const yearsCompleteData: Record<string, YearData> = {
         driveUrl:
           "https://drive.google.com/drive/folders/1Ce9CUvItSRRykWpWsVENAirqZVx_WGl0?usp=drive_link",
         courses: [
+          {
+            title: "Cours 2026",
+            url: "https://drive.google.com/drive/folders/1SSMcF_nda_CsjqFLb-mE9R1RKXEYzbQY?usp=drive_link",
+            year: "2026",
+          },
           {
             title: "Cours 2024",
             url: "https://drive.google.com/drive/folders/1Ce9CUvItSRRykWpWsVENAirqZVx_WGl0?usp=drive_link",
