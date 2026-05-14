@@ -3522,11 +3522,6 @@ export const yearsCompleteData: Record<string, YearData> = {
           "https://drive.google.com/drive/folders/1tiGdZI_8VKx8qwbBuXS-kX-bi2hW3xHt?usp=sharing",
         courses: [
           {
-            title: "Cours 2026",
-            url: "https://drive.google.com/drive/folders/1SSMcF_nda_CsjqFLb-mE9R1RKXEYzbQY?usp=sharing",
-            year: "2026",
-          },
-          {
             title: "Cours 2021",
             url: "https://drive.google.com/drive/folders/1tiGdZI_8VKx8qwbBuXS-kX-bi2hW3xHt?usp=sharing",
             year: "2021",
