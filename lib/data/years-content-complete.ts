@@ -3690,6 +3690,11 @@ export const yearsCompleteData: Record<string, YearData> = {
           "https://drive.google.com/drive/folders/164VuQNi8SVIDH2rxqNKW4tebQcdKM3pM?usp=drive_link",
         courses: [
           {
+            title: "Cours 2026",
+            url: "https://drive.google.com/drive/folders/1SSMcF_nda_CsjqFLb-mE9R1RKXEYzbQY?usp=drive_link",
+            year: "2026",
+          },
+          {
             title: "Cours 2024",
             url: "https://drive.google.com/drive/folders/164VuQNi8SVIDH2rxqNKW4tebQcdKM3pM?usp=drive_link",
             year: "2024",
