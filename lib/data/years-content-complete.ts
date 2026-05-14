@@ -3522,6 +3522,11 @@ export const yearsCompleteData: Record<string, YearData> = {
           "https://drive.google.com/drive/folders/1tiGdZI_8VKx8qwbBuXS-kX-bi2hW3xHt?usp=sharing",
         courses: [
           {
+            title: "Cours 2026",
+            url: "https://drive.google.com/drive/folders/111WavBgypzibI3CdWEHQFS9BJFVkY7Hu?usp=drive_link",
+            year: "2026",
+          },
+          {
             title: "Cours 2021",
             url: "https://drive.google.com/drive/folders/1tiGdZI_8VKx8qwbBuXS-kX-bi2hW3xHt?usp=sharing",
             year: "2021",
@@ -3552,6 +3557,11 @@ export const yearsCompleteData: Record<string, YearData> = {
         driveUrl:
           "https://drive.google.com/drive/folders/1d5dT6sb5nesN2z0O4GsgWQjjBlWai7-q?usp=sharing",
         courses: [
+          {
+            title: "Cours 2026",
+            url: "https://drive.google.com/drive/folders/111WavBgypzibI3CdWEHQFS9BJFVkY7Hu?usp=drive_link",
+            year: "2026",
+          },
           {
             title: "Cours 2021",
             url: "https://drive.google.com/drive/folders/1d5dT6sb5nesN2z0O4GsgWQjjBlWai7-q?usp=sharing",
@@ -3584,6 +3594,11 @@ export const yearsCompleteData: Record<string, YearData> = {
           "https://drive.google.com/drive/folders/1Wo1zUmEJFMyZgiz6gQ5DF0b4mU8Sxl36?usp=sharing",
         courses: [
           {
+            title: "Cours 2026",
+            url: "https://drive.google.com/drive/folders/111WavBgypzibI3CdWEHQFS9BJFVkY7Hu?usp=drive_link",
+            year: "2026",
+          },
+          {
             title: "Cours 2021",
             url: "https://drive.google.com/drive/folders/1Wo1zUmEJFMyZgiz6gQ5DF0b4mU8Sxl36?usp=sharing",
             year: "2021",
@@ -3614,6 +3629,11 @@ export const yearsCompleteData: Record<string, YearData> = {
         driveUrl:
           "https://drive.google.com/drive/folders/1PjK4Og7YOmKnYO8GV9-XQx-qFnVUjnW0?usp=sharing",
         courses: [
+          {
+            title: "Cours 2026",
+            url: "https://drive.google.com/drive/folders/111WavBgypzibI3CdWEHQFS9BJFVkY7Hu?usp=drive_link",
+            year: "2026",
+          },
           {
             title: "Cours 2021",
             url: "https://drive.google.com/drive/folders/1PjK4Og7YOmKnYO8GV9-XQx-qFnVUjnW0?usp=sharing",
